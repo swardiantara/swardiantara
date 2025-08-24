@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Swardiantara 👋</h1>
-<h3 align="center">PhD in NLP for Analytics | Open-Source Developer</h3>
+<h3 align="center">PhD in NLP for Log Analytics | Open-Source Developer</h3>
 
 I hold a PhD in Computer Science from the **Institut Teknologi Sepuluh Nopember (ITS)**, where my research focused on **NLP-based Information Extraction from Drone Flight Logs** for digital forensic investigations. I had the honor of being supervised by [Prof. Tohari Ahmad](https://scholar.its.ac.id/en/persons/tohari-ahmad) (a Stanford University Top 2% Scientist) and [Dr. Hudan Studiawan](https://scholar.its.ac.id/en/persons/hudan-studiawan), two esteemed researchers in their fields.
 
