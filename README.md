@@ -56,10 +56,3 @@ I'm always open to discussing research, technology, or potential collaborations.
 <a href="https://scholar.google.com/citations?user=FmIRefcAAAAJ&hl=id" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-Citations-blue?style=for-the-badge&logo=google-scholar"></a>
 <a href="https://orcid.org/0000-0001-5805-355X" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-ID-blue?style=for-the-badge&logo=orcid"></a>
 </p>
-
----
-
-### 📊 My GitHub Stats
-
-![Swardiantara's GitHub stats](https://github-readme-stats.vercel.app/api?username=swardiantara&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swardiantara&layout=compact&theme=radical&hide_border=true)](https://github.com/swardiantara)
